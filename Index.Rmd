@@ -1,0 +1,12 @@
+---
+title: "Index"
+author: "Tshering Wangchuk"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
